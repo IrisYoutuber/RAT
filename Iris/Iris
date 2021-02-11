@@ -1,0 +1,6 @@
+echo "STARTING Iris Malware ..."
+sleep 1
+cd Iris;
+node index.js;
+
+echo " STARTED ..."
